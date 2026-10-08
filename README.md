@@ -9,6 +9,7 @@ DriveX allows customers to browse cars, check date-based availability, make book
 
 
 ✨ Features
+-------------------------------------
 👤 Customer Module
 🔐 User Registration & Login
 🔑 Forgot Password
